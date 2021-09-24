@@ -1,0 +1,165 @@
+{
+  "Products": [
+  {
+    "Name": "Vinterjacka",
+    "Text": "Varm vinterjacka anpassad f�r ridning",
+    "Bild": "https://www.hooks.se/pub_images/original/111478-21_1.jpg?extend=copy&width=160&method=fit&height=160&sigma=2.5&minampl=0.5&quality=30&type=auto",
+    "Pris": 1999,
+    "Utvald": true,
+    "Lagersaldo": 8,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Ridstrumpor",
+    "Text": "Svarta ridstrumpor i stretchigt material",
+    "Bild": "https://www.svenskridsport.com/wp-content/uploads/2019/05/Stierna-Performance-Ridstrumpor-Svart.png",
+    "Pris": 149,
+    "Utvald": false,
+    "Lagersaldo": 201,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Ridbyxor",
+    "Text": "M�rkbl� helskodda ridbyxor",
+    "Bild": "https://www.hooks.se/pub_images/original/100435-21_2.jpg",
+    "Pris": 899,
+    "Utvald": false,
+    "Lagersaldo": 23,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Tr�ja",
+    "Text": "L�ng�rmad tr�ja i sportigt material",
+    "Bild": "https://www.vbridsport.se/wp-content/uploads/2020/03/11007_8700.jpg",
+    "Pris": 329,
+    "Utvald": false,
+    "Lagersaldo": 31,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Ridhanskar",
+    "Text": "Ljusbruna ridhanskar f�r ett bra grepp",
+    "Bild": "https://quickbutik.imgix.net/8885S/products/60e4155140d4d.jpeg",
+    "Pris": 199,
+    "Utvald": false,
+    "Lagersaldo": 13,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Regnjacka",
+    "Text": "Mörkblå regnjacka i l�ngre modell",
+    "Bild": "https://www.horze.se/dw/image/v2/AATB_PRD/on/demandware.static/-/Sites-hz-master-catalog/default/dwd475c535/Horze/33609_vdb-3_web.jpg?sw=1600&sh=1600&q=100",
+    "Pris": 649,
+    "Utvald": false,
+    "Lagersaldo": 44,
+    "Kategori": "Klader"
+  },
+  {
+    "Name": "Hovkrats",
+    "Text": "Rosa hovkrats med borste",
+    "Bild": "https://www.ridersport.se/images/zoom/813696.jpg",
+    "Pris": 59,
+    "Utvald": false,
+    "Lagersaldo": 102,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Man/Svans borste",
+    "Text": "Borste till man och svans",
+    "Bild": "https://www.djurgardensridsport.com/PICTURE/6943-80-72999.jpg",
+    "Pris": 69,
+    "Utvald": false,
+    "Lagersaldo": 70,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Rotborste",
+    "Text": "Rotborste av tagel med tr�skaft",
+    "Bild": "https://hastkallaren.se/10404-medium_default/finntack-rotborste-med-tagelborst.jpg",
+    "Pris": 249,
+    "Utvald": false,
+    "Lagersaldo": 19,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Grimma",
+    "Text": "Grimma av svart l�der",
+    "Bild": "https://www.horze.se/dw/image/v2/AATB_PRD/on/demandware.static/-/Sites-hz-master-catalog/default/dw2e951e09/Le_Mieux/329622_BL.jpg?sw=1600&sh=1600&q=100",
+    "Pris": 629,
+    "Utvald": false,
+    "Lagersaldo": 50,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Regnt�cke",
+    "Text": "Blå-svart regnt�cke",
+    "Bild": "https://contents.mediadecathlon.com/p1640838/k08dfbbef79e19e8fd3a6da161a81a3cf/1640838_default.jpg?format=auto&quality=60&f=200x0",
+    "Pris": 1999,
+    "Utvald": true,
+    "Lagersaldo": 47,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Grimmskaft",
+    "Text": "Lila grimmskaft, 2 m",
+    "Bild": "https://www.quus.nl/wp-content/uploads/2015/10/Halstertouw-Luxe-Paars-qhp-1033-pa.jpg",
+    "Pris": 99,
+    "Utvald": false,
+    "Lagersaldo": 104,
+    "Kategori": "Hast"
+  },
+  {
+    "Name": "Ridhj�lm",
+    "Text": "Svart ridhj�lm med MIPS",
+    "Bild": "https://www.svenskridsport.com/wp-content/uploads/2019/05/Eq3-back-on-track-mips-ridhja%CC%88lm-1.jpg",
+    "Pris": 2000,
+    "Utvald": false,
+    "Lagersaldo": 33,
+    "Kategori": "Ridutrustning"
+  },
+  {
+    "Name": "Sadelgjord",
+    "Text": "Svart sadelgjord till dressyrsadel",
+    "Bild": "https://hannetorp.se/wp-content/uploads/2017/09/Antares-Kort-sadelgjord-anatomisk-1.jpg",
+    "Pris": 599,
+    "Utvald": false,
+    "Lagersaldo": 40,
+    "Kategori": "Ridutrustning"
+  },
+  {
+    "Name": "S�kerhetsv�st",
+    "Text": "Svart s�kerhetsv�st",
+    "Bild": "https://www.hooks.se/pub_images/original/230245-10_1.jpg",
+    "Pris": 899,
+    "Utvald": false,
+    "Lagersaldo": 49,
+    "Kategori": "Ridutrustning"
+  },
+  {
+    "Name": "Tr�ns",
+    "Text": "Tr�ns i svart l�der",
+    "Bild": "https://i.pinimg.com/originals/70/c8/9b/70c89b859429d3f1b7d9f320f6bb3498.jpg",
+    "Pris": 799,
+    "Utvald": true,
+    "Lagersaldo": 71,
+    "Kategori": "Ridutrustning"
+  },
+  {
+    "Name": "Schabrak",
+    "Text": "Rosa schabrak i glansigt tyg",
+    "Bild": "https://cdn.yourvismawebsite.com/img/01/0d31f9f5-78f9-4f2d-8a29-fac69b4a5426/800/600",
+    "Pris": 629,
+    "Utvald": false,
+    "Lagersaldo": 16,
+    "Kategori": "Ridutrustning"
+  },
+  {
+    "Name": "Bett",
+    "Text": "Tredelat bett med fasta ringar i rostfritt st�l",
+    "Bild": "https://hestamann.com/wp-content/uploads/2020/04/hrimnir-bett-rostfritt-3-delat-fasta-ringar.jpeg",
+    "Pris": 309,
+    "Utvald": false,
+    "Lagersaldo": 61,
+    "Kategori": "Ridutrustning"
+  }]
+}
